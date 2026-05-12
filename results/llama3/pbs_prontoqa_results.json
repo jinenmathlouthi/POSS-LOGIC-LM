@@ -1,0 +1,6513 @@
+{
+  "dataset": "prontoqa",
+  "model": "llama3.1-8b",
+  "method": "PBS",
+  "stats": {
+    "total": 500,
+    "correct": 437,
+    "accuracy": 87.4,
+    "exe_rate": 99.4
+  },
+  "results": [
+    {
+      "id": "pqa_000",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_001",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_002",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_003",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_004",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_005",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "Unknown",
+        "False",
+        "Unknown",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_006",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_007",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_008",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_009",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_010",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_011",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_012",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_013",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_014",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_015",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_016",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_017",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_018",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_019",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_020",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_021",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_022",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_023",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_024",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_025",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_026",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_027",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_028",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_029",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_030",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_031",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_032",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_033",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_034",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_035",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_036",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_037",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_038",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_039",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_040",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_041",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_042",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_043",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_044",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_045",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_046",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_047",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_048",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_049",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_050",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "Unknown",
+        "Unknown",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_051",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_052",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_053",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_054",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_055",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_056",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_057",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_058",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_059",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_060",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "Unknown",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_061",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_062",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_063",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_064",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_065",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_066",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_067",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_068",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_069",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_070",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_071",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_072",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_073",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_074",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_075",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_076",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_077",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_078",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_079",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_080",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_081",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_082",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_083",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_084",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_085",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_086",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_087",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_088",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_089",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_090",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_091",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_092",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_093",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_094",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_095",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_096",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_097",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_098",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_099",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_100",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_101",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_102",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_103",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_104",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_105",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_106",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "False",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_107",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_108",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_109",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_110",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_111",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_112",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_113",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_114",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_115",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_116",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_117",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_118",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_119",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_120",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_121",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_122",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_123",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_124",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_125",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_126",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_127",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_128",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_129",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_130",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_131",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_132",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_133",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_134",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_135",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_136",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "Unknown",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_137",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_138",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "False",
+        "Unknown",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_139",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_140",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_141",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_142",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_143",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_144",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_145",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_146",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_147",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_148",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_149",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_150",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_151",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_152",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_153",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_154",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_155",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_156",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_157",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_158",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_159",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_160",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_161",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "False",
+        "Unknown",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_162",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_163",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_164",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_165",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_166",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_167",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_168",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_169",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_170",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_171",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_172",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_173",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_174",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_175",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_176",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_177",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_178",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_179",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_180",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_181",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_182",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_183",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_184",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_185",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_186",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_187",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_188",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_189",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_190",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_191",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_192",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_193",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "Unknown",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_194",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_195",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_196",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_197",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_198",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_199",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_200",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_201",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_202",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_203",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_204",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_205",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_206",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_207",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_208",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_209",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_210",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_211",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_212",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_213",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_214",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "False",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_215",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_216",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_217",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_218",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_219",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_220",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_221",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "False",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_222",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_223",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_224",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_225",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_226",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_227",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_228",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_229",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_230",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_231",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "False",
+        "Unknown",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_232",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_233",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_234",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_235",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_236",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_237",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_238",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_239",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_240",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_241",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_242",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_243",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_244",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_245",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_246",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_247",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_248",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_249",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_250",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_251",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_252",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_253",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_254",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_255",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_256",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_257",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_258",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_259",
+      "gold": "True",
+      "pred": "Unknown",
+      "correct": false,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_260",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_261",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_262",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_263",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_264",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_265",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_266",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_267",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_268",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_269",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_270",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_271",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_272",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_273",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_274",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_275",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_276",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_277",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_278",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_279",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_280",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_281",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_282",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_283",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_284",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_285",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_286",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_287",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_288",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_289",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_290",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_291",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_292",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_293",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_294",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_295",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_296",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_297",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_298",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_299",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_300",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_301",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_302",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_303",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_304",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_305",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_306",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_307",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_308",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_309",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_310",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_311",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_312",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_313",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_314",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_315",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_316",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_317",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_318",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_319",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_320",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "Unknown",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_321",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_322",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_323",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "False",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_324",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_325",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_326",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_327",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_328",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "Unknown",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_329",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_330",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_331",
+      "gold": "True",
+      "pred": "Unknown",
+      "correct": false,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_332",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_333",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_334",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_335",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_336",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_337",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_338",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_339",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_340",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_341",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_342",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_343",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_344",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_345",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_346",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_347",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_348",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_349",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_350",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_351",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_352",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_353",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_354",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_355",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_356",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_357",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_358",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_359",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_360",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_361",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_362",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_363",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_364",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_365",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_366",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_367",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_368",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_369",
+      "gold": "True",
+      "pred": "Unknown",
+      "correct": false,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_370",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_371",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_372",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_373",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_374",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_375",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_376",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_377",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_378",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_379",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_380",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_381",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_382",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_383",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_384",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_385",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_386",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_387",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_388",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_389",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_390",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_391",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_392",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_393",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_394",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_395",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_396",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_397",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_398",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_399",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_400",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_401",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_402",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_403",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_404",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_405",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_406",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "True",
+        "Unknown",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_407",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_408",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_409",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_410",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_411",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_412",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_413",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_414",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_415",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_416",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_417",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_418",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "Unknown",
+        "True",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_419",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_420",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_421",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_422",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_423",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_424",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_425",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_426",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_427",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_428",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_429",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_430",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_431",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_432",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_433",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_434",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_435",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_436",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_437",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "False",
+        "Unknown",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_438",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_439",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_440",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_441",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_442",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_443",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_444",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_445",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_446",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_447",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_448",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_449",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_450",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_451",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_452",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_453",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_454",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_455",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_456",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_457",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_458",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_459",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_460",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_461",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_462",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_463",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_464",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_465",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_466",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "Unknown",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_467",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_468",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "Unknown",
+        "Unknown",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_469",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "Unknown",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_470",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_471",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_472",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "Unknown",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_473",
+      "gold": "False",
+      "pred": "True",
+      "correct": false,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_474",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_475",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_476",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "False",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_477",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_478",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_479",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_480",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "True",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_481",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_482",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_483",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_484",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_485",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_486",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_487",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_488",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "True",
+        "True",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_489",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_490",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_491",
+      "gold": "True",
+      "pred": "False",
+      "correct": false,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_492",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_493",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "Unknown",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_494",
+      "gold": "True",
+      "pred": "True",
+      "correct": true,
+      "solver": [
+        "True",
+        "True",
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": "pqa_495",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_496",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "pqa_497",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_498",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "id": "pqa_499",
+      "gold": "False",
+      "pred": "False",
+      "correct": true,
+      "solver": [
+        "False",
+        "False",
+        "False",
+        "False",
+        "False"
+      ]
+    }
+  ]
+}
