@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Logs and temporary outputs
+*.log
+tmp/
+temp/
+outputs/
+results/tmp/
