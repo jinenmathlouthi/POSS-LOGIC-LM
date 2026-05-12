@@ -1,0 +1,10 @@
+# Core
+transformers>=4.40.0
+accelerate>=0.29.0
+torch>=2.1.0
+
+# FOLIO solver
+pyprover9>=0.0.4
+
+# Optional utilities
+pandas>=2.0.0
