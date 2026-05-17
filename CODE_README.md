@@ -61,7 +61,7 @@ POSS-LOGIC-LM/
 ├── databases/
 │   ├── qwen/
 │   ├── llama3/
-│   └── phi3_5_mini/
+│   └── gemma/
 ├── results/
 ├── src/
 └── scripts/
