@@ -48,7 +48,7 @@ DATASET_CONFIGS: Dict[str, DatasetConfig] = {
 MODEL_CONFIGS: Dict[str, ModelConfig] = {
     "qwen": ModelConfig(name="qwen", database_dir="qwen"),
     "llama3": ModelConfig(name="llama3", database_dir="llama3"),
-    "phi3_5_mini": ModelConfig(name="phi3_5_mini", database_dir="phi3_5_mini"),
+    "gemma": ModelConfig(name="gemma", database_dir="gemma"),
 }
 
 

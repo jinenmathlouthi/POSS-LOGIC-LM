@@ -3,7 +3,7 @@ set -euo pipefail
 
 REPO_ROOT="${1:-.}"
 
-MODELS=(qwen llama3 phi3_5_mini)
+MODELS=(qwen llama3 gemma)
 DATASETS=(folio prontoqa proofwriter)
 METHODS=(logiclm pbs)
 

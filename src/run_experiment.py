@@ -15,7 +15,7 @@ from self_refinement import HFRefiner, RefinementConfig
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run POSS-LOGIC-LM experiments.")
 
-    parser.add_argument("--model", required=True, choices=["qwen", "llama3", "phi3_5_mini"])
+    parser.add_argument("--model", required=True, choices=["qwen", "llama3", "gemma"])
     parser.add_argument("--dataset", required=True, choices=["folio", "prontoqa", "proofwriter"])
     parser.add_argument("--method", required=True, choices=["logiclm", "pbs"])
 
