@@ -90,4 +90,3 @@ def normalize_gold_label(label: object, dataset: str) -> str:
 
     return "Unknown"
 
-# Repository metadata refreshed after Gemma update.
