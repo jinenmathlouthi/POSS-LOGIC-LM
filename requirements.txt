@@ -1,3 +1,4 @@
+# Project dependencies
 # Core
 transformers>=4.40.0
 accelerate>=0.29.0
