@@ -22,4 +22,3 @@ for MODEL in "${MODELS[@]}"; do
   done
 done
 
-# Repository metadata refreshed after Gemma update.
